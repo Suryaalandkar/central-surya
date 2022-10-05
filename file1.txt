@@ -1,3 +1,8 @@
 
 heloo sury how are you guys
+<<<<<< HEAD
 hello
+=======
+hi vivekanad haow are 
+>>>>>>> 7053042ab3cffd3e106fd79cf7f2fad338cfb5ff
+hi this is our git repo practical andther is lot of problems occure when mergr conflict arise in front of us
